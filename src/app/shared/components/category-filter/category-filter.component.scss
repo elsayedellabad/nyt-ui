@@ -1,0 +1,25 @@
+.category-filter-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border: 1px solid var(--btn-box-shadow);
+  border-radius: 4px;
+
+  .mat-select {
+    border-bottom: 2px solid var(--header);
+  }
+}
+
+@media (min-width: 768px) {
+  .category-filter-wrapper {
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .title {
+      width: 20%;
+    }
+  }
+}

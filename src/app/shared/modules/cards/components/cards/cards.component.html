@@ -1,0 +1,31 @@
+<mat-card class="nyt-card">
+  <mat-card-header>
+    <mat-card-title>
+      {{
+        story.title.length > 40
+          ? (story.title | slice: 0:40) + ".."
+          : story.title
+      }}
+    </mat-card-title>
+    <mat-card-subtitle>{{ story.section }}</mat-card-subtitle>
+  </mat-card-header>
+  <img
+    mat-card-image
+    src="{{ story?.imageUrl ? story.imageUrl : '' }}"
+    height="204px"
+  />
+  <mat-card-content>
+    <p>
+      {{
+        story.description.length > 110
+          ? (story.description | slice: 0:110) + ".."
+          : story.description
+      }}
+    </p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button (click)="openDialog(story)" mat-raised-button color="accent">
+      Read more ...
+    </button>
+  </mat-card-actions>
+</mat-card>

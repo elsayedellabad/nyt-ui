@@ -1,0 +1,41 @@
+<div class="category-filter-wrapper">
+  <form
+    class="search-form-wrapper"
+    [formGroup]="filterForm"
+    (submit)="onSearchArticles(filterForm)"
+  >
+    <mat-card>
+      <div class="search-form">
+        <mat-form-field class="col-8" appearance="fill">
+          <input autocomplete="off" (focus)="getSavedSearchHistory(true)" 
+            matInput
+            formControlName="q"
+            type="text"
+            placeholder="Search articles"
+          />
+          
+        </mat-form-field>
+        <ng-container *ngIf="searchHistory.length>0">
+          <div id="search-history">
+            <p *ngFor="let searchItem of searchHistory" (click)="applySearchWithHistoryItem(searchItem)"> {{searchItem}}</p>
+          </div>
+        </ng-container>
+        <div class="form-actions">
+          <button class="mr-2" type="submit" mat-raised-button color="primary">
+            <mat-icon>search</mat-icon>
+            Search
+          </button>
+          <button
+            (click)="resetForm()"
+            type="button"
+            mat-raised-button
+            color="accent"
+          >
+            <mat-icon>clear</mat-icon>
+            Reset
+          </button>
+        </div> 
+      </div>
+    </mat-card>
+  </form>
+</div>

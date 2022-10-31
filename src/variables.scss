@@ -1,0 +1,57 @@
+:root {
+  --header: #014b76;
+  --orange: #f6921e;
+  --green: #4caf50;
+  --not-found: red;
+}
+
+body {
+  --side-nav: #014b76;
+  --spinner: #014b76;
+  --navy-bg: #014b76;
+  --dark-bg: #014b76;
+  --progress: #8cbcdc;
+  --loader: #014b76;
+  --splash: #014b76;
+  --bg-color: #f5f5f5;
+  --input-bg: #fff;
+  --input-border: #d8d8d8;
+  --input-outline: #a8a7a7;
+  --navbar: #fff;
+  --box-shadow: #a1a9b79c;
+  --btn-box-shadow: #a1a9b79c;
+  --active-link: #8cbcdc;
+  --active-link-text: #014b76;
+  --modal-text: #636363;
+  --link: #636363;
+  --white-bg: #fff;
+  --dark-text: #014b76;
+  --navy-text: #014b76;
+  --blue-text: #0584ce;
+  --link-text: #0584ce;
+  --grey-text: #606060;
+  --light-grey: #717889;
+  --grayscale-text: #000;
+  --black-text: #000;
+  --primary-btn: #014b76;
+  --accent-btn: #e2eaef;
+  --secondary-btn: #f6921e;
+  --outline-btn: #6ca4c2;
+  --white-btn: #fff;
+  --white-contrast-btn: #fff;
+  --grey-btn: #ececec;
+  --light-btn: #e3ebf0;
+  --light-btn-text: #6793ad;
+  --view-toggle-btn: #fff;
+  --accent-btn-text: #6793ad;
+  --action-btn: #f1f4f6;
+  --mat-menu-item-border: #f5f5f5;
+  --navy-card: #014b76;
+  --grey-card: #ececed;
+  --chart-card: #fff;
+  --metrics-card: #eff5f8;
+}
+
+body * {
+  transition: color 200ms, background-color 200ms;
+}

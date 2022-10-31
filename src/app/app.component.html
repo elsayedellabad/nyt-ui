@@ -1,0 +1,17 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12">
+      <header>
+        <app-header *ngIf="isUserLoggedIn"></app-header>
+      </header>
+      <main>
+        <router-outlet></router-outlet>
+      </main>
+      <footer>
+        <app-footer *ngIf="isUserLoggedIn"></app-footer>
+      </footer>
+    </div>
+  </div>
+</div>
+
+<app-spinner></app-spinner>

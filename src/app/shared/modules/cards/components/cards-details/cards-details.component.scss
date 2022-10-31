@@ -1,0 +1,15 @@
+.card-details-action {
+  display: flex;
+  justify-content: right;
+  margin-top: 15px;
+}
+
+.col-3 {
+  background-color: var(--input-border);
+  margin-right: 10px;
+  border-radius: 3px;
+}
+
+.col-3:first-child {
+  margin-left: 70px;
+}

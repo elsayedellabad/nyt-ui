@@ -1,0 +1,31 @@
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <app-category-filter
+        (categorySelectionChanged)="onCategoryChange($event)"
+      ></app-category-filter>
+    </div>
+
+    <div class="col-12" *ngIf="dataSource && dataSource.length > 0">
+      <div class="row">
+        <div *ngFor="let story of dataSource" class="col-12 col-md-4 mb-3">
+          <app-cards [story]="formatCardData(story)"></app-cards>
+        </div>
+      </div>
+      <mat-paginator
+        #paginator
+        [length]="length"
+        [pageSize]="pageSize"
+        [pageSizeOptions]="[5, 10, 25, 100]"
+        [pageIndex]="pageIndex"
+        [showFirstLastButtons]="true"
+        aria-label="Select page"
+        (page)="getServerData($event)"
+      >
+      </mat-paginator>
+    </div>
+    <div class="col-12 text-center no-search-results" *ngIf="dataSource && dataSource.length==0">
+      No search result for your selected category, Please select another one.
+  </div>
+  </div>
+</div>

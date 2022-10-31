@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Poppins, "Helvetica Neue", sans-serif;
+  background: #f6f6f6;
+  overflow-x: hidden;
+  font-size: 10px;
+}
+
+main {
+  min-height: 84vh;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.spinner-panel {
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.mat-paginator {
+  margin: 35px 0;
+}
+
+.mat-paginator-container {
+  justify-content: center !important;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}

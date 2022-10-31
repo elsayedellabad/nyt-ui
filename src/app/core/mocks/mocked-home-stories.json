@@ -1,0 +1,1957 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2022-10-30T19:59:52-04:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "world",
+      "subsection": "americas",
+      "title": "Brazil’s election officials demand answers for police stops of buses carrying voters.",
+      "abstract": "There were dozens of reports on social media on Sunday that federal highway agents were stopping vehicles and questioning people in several states across Brazil.",
+      "url": "https://www.nytimes.com/2022/10/30/world/americas/brazil-voters-police-elections.html",
+      "uri": "nyt://article/d1ff1afa-fe56-5e13-88e1-e3eb314b0264",
+      "byline": "By Ana Ionova, André Spigariol, Laís Martins and Jack Nicas",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T15:44:42-04:00",
+      "created_date": "2022-10-30T15:15:00-04:00",
+      "published_date": "2022-10-30T15:15:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Elections"],
+      "org_facet": [],
+      "per_facet": [
+        "Bolsonaro, Jair (1955- )",
+        "Moraes, Alexandre de (1968- )"
+      ],
+      "geo_facet": ["Brazil"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30brazil-morais-2-1-d4ad/30brazil-morais-2-1-d4ad-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexandre de Moraes, a Supreme Court justice who leads Brazil’s election agency, issued an order to the Brazil’s federal highway police chief, calling on him to provide proof that his officers were not violating election rules.",
+          "copyright": "Dado Galdieri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30brazil-morais-2-1-d4ad/30brazil-morais-2-1-d4ad-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexandre de Moraes, a Supreme Court justice who leads Brazil’s election agency, issued an order to the Brazil’s federal highway police chief, calling on him to provide proof that his officers were not violating election rules.",
+          "copyright": "Dado Galdieri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30brazil-morais-2-1-d4ad/30brazil-morais-2-1-d4ad-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexandre de Moraes, a Supreme Court justice who leads Brazil’s election agency, issued an order to the Brazil’s federal highway police chief, calling on him to provide proof that his officers were not violating election rules.",
+          "copyright": "Dado Galdieri for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SQiz88"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "A ‘Sea of Bodies’: How a Festive Night in Seoul Turned Deadly",
+      "abstract": "There were few police officers around as a mass of revelers swelled. From within the crowd came calls to “push, push” and a big shove, according to witnesses. Then, they began to fall.",
+      "url": "https://www.nytimes.com/2022/10/30/world/asia/south-korea-itaewon-crowd-crush-victims.html",
+      "uri": "nyt://article/ad73b1ff-d932-5b8b-adba-76b13aae0dab",
+      "byline": "By Choe Sang-Hun, John Yoon, Paul Mozur, Victoria Kim, Lee Su-Hyun and Jin Yu Young",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T17:47:55-04:00",
+      "created_date": "2022-10-30T14:30:11-04:00",
+      "published_date": "2022-10-30T14:30:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Seoul Halloween Stampede (2022)",
+        "Police",
+        "Bars and Nightclubs",
+        "Deaths (Fatalities)",
+        "Stampedes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Seoul (South Korea)", "South Korea"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30skorea-ledeall-01/merlin_215707776_138a2c07-78d9-4593-896e-8e06c4c368ad-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial on Sunday for the victims of the crowd surge in the Itaewon district of Seoul, the South Korean capital.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30skorea-ledeall-01/merlin_215707776_138a2c07-78d9-4593-896e-8e06c4c368ad-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial on Sunday for the victims of the crowd surge in the Itaewon district of Seoul, the South Korean capital.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30skorea-ledeall-01/30skorea-ledeall-01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial on Sunday for the victims of the crowd surge in the Itaewon district of Seoul, the South Korean capital.",
+          "copyright": "Chang W. Lee/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SK53mJ"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "The Father of One U.S. Victim Found Warmth Online as Worry Became Grief",
+      "abstract": "After frantic calls, and then devastating news, a family sees a stream of support.",
+      "url": "https://www.nytimes.com/2022/10/29/world/asia/us-victim.html",
+      "uri": "nyt://article/9e3ad3e7-5a8a-5534-8b85-fd8f18a0d0bd",
+      "byline": "By Luke Vander Ploeg",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T19:29:54-04:00",
+      "created_date": "2022-10-30T13:54:35-04:00",
+      "published_date": "2022-10-30T13:54:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Seoul Halloween Stampede (2022)", "Stampedes"],
+      "org_facet": ["Kennesaw State University"],
+      "per_facet": [],
+      "geo_facet": [
+        "Atlanta (Ga)",
+        "Far East, South and Southeast Asia and Pacific Areas",
+        "Georgia",
+        "Seoul (South Korea)",
+        "South Korea"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-blesi02/30korea-crowdsurge-blesi02-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steven Blesi with his mother, Maria Blesi. He died in the crowd surge in Seoul on Saturday.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-blesi02/30korea-crowdsurge-blesi02-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steven Blesi with his mother, Maria Blesi. He died in the crowd surge in Seoul on Saturday.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-blesi02/30korea-crowdsurge-blesi02-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steven Blesi with his mother, Maria Blesi. He died in the crowd surge in Seoul on Saturday.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3zw0YeV"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "The Battle for Blue-Collar White Voters Raging in Biden’s Birthplace",
+      "abstract": "Among white working-class voters in places like northeast Pennsylvania, the Democratic Party has both the furthest to fall and the most to gain.",
+      "url": "https://www.nytimes.com/2022/10/30/us/politics/blue-collar-voters-pennsylvania.html",
+      "uri": "nyt://article/f724a5a0-3aad-591f-98b8-f79be2402abd",
+      "byline": "By Shane Goldmacher",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T18:42:22-04:00",
+      "created_date": "2022-10-30T16:47:39-04:00",
+      "published_date": "2022-10-30T16:47:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "Whites",
+        "Polls and Public Opinion",
+        "United States Economy",
+        "Labor and Jobs"
+      ],
+      "org_facet": ["Democratic Party", "Republican Party"],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Cartwright, Matthew A (1961- )",
+        "Fetterman, John (1969- )",
+        "Oz, Mehmet C"
+      ],
+      "geo_facet": ["Pennsylvania"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/multimedia/00pol-pa-workingclass-1-9c01/00pol-pa-workingclass-1-9c01-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Papp, a union member and carpenter.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/multimedia/00pol-pa-workingclass-1-9c01/00pol-pa-workingclass-1-9c01-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Papp, a union member and carpenter.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/multimedia/00pol-pa-workingclass-1-9c01/00pol-pa-workingclass-1-9c01-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Papp, a union member and carpenter.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3sK1rX6"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "The Senator-Pastor From Georgia Mixes Politics and Preaching on the Trail",
+      "abstract": "Senator Raphael Warnock’s Sunday: a morning in the pulpit, then a Souls to the Polls event.",
+      "url": "https://www.nytimes.com/2022/10/30/us/politics/raphael-warnock-religion-campaign.html",
+      "uri": "nyt://article/931b5f9c-8c93-5d8f-910d-d07fb391f264",
+      "byline": "By Maya King",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T17:25:10-04:00",
+      "created_date": "2022-10-30T17:25:10-04:00",
+      "published_date": "2022-10-30T17:25:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Ebenezer Baptist Church (Atlanta, Ga)",
+        "Democratic Party"
+      ],
+      "per_facet": ["Warnock, Raphael G"],
+      "geo_facet": ["Georgia"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30pol-warnock-1-2788/30pol-warnock-1-2788-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On the campaign trail: Senator Raphael Warnock speaking at a rally on Friday night in College Park, Ga.",
+          "copyright": "Gabriela Bhaskar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30pol-warnock-1-2788/30pol-warnock-1-2788-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On the campaign trail: Senator Raphael Warnock speaking at a rally on Friday night in College Park, Ga.",
+          "copyright": "Gabriela Bhaskar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30pol-warnock-1-2788/30pol-warnock-1-2788-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On the campaign trail: Senator Raphael Warnock speaking at a rally on Friday night in College Park, Ga.",
+          "copyright": "Gabriela Bhaskar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gWXKuH"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Clinton, Obama and DeSantis Lend Star Power to Tight N.Y. Races",
+      "abstract": "A high-profile display of Republican and Democratic efforts illustrates how many of the state’s races have become unexpectedly close, including the governor’s race.",
+      "url": "https://www.nytimes.com/2022/10/30/nyregion/governor-zeldin-hochul.html",
+      "uri": "nyt://article/4d061f42-3cb1-555e-be05-fb3579637801",
+      "byline": "By Luis Ferré-Sadurní",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T18:07:52-04:00",
+      "created_date": "2022-10-30T15:18:06-04:00",
+      "published_date": "2022-10-30T15:18:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "United States Politics and Government",
+        "Elections, Governors",
+        "Political Action Committees",
+        "Politics and Government",
+        "Elections, House of Representatives"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hochul, Kathleen C",
+        "Maloney, Sean Patrick",
+        "Zeldin, Lee M",
+        "Clinton, Bill",
+        "DeSantis, Ron"
+      ],
+      "geo_facet": ["New York State"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/us/30nygov-race/merlin_210691578_63442cd5-1817-4e20-b217-cd54cd954c57-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1200,
+          "width": 1800,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Kathy Hochul, left, and Representative Lee Zeldin, right, each have about $6 million to spend in the final days of the New York governor’s campaign.",
+          "copyright": "Jeenah Moon for The New York Times, Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/us/30nygov-race/merlin_210691578_63442cd5-1817-4e20-b217-cd54cd954c57-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Kathy Hochul, left, and Representative Lee Zeldin, right, each have about $6 million to spend in the final days of the New York governor’s campaign.",
+          "copyright": "Jeenah Moon for The New York Times, Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/us/30nygov-race/merlin_210691578_63442cd5-1817-4e20-b217-cd54cd954c57-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Kathy Hochul, left, and Representative Lee Zeldin, right, each have about $6 million to spend in the final days of the New York governor’s campaign.",
+          "copyright": "Jeenah Moon for The New York Times, Alyssa Schukar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Doi2Vu"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "King Tut Died Long Ago, but the Debate About His Tomb Rages On",
+      "abstract": "Maybe the walls are disguising the undiscovered burial chamber of Nefertiti. Or “maybe it’s Al Capone’s safe.”",
+      "url": "https://www.nytimes.com/2022/10/30/science/tutankhamen-nefertiti-archaeology.html",
+      "uri": "nyt://article/f55280a9-a7cf-5051-8a83-225106979073",
+      "byline": "By Franz Lidz",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T13:32:38-04:00",
+      "created_date": "2022-10-30T05:00:17-04:00",
+      "published_date": "2022-10-30T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Egyptian Civilization",
+        "Tombs and Tombstones",
+        "your-feed-science"
+      ],
+      "org_facet": [],
+      "per_facet": ["Nefertiti", "Reeves, Nicholas (1956- )", "Tutankhamen"],
+      "geo_facet": ["Egypt", "Cairo (Egypt)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/11/01/science/00SCI-NEFERTITI-01/merlin_215531844_bd800f72-07b9-42a7-b808-7f8792ccb832-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists looking at the tomb of King Tut, as displayed in a glass case at the Valley of the Kings in Luxor, Egypt, in November 2015.",
+          "copyright": "Amr Nabil/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/11/01/science/00SCI-NEFERTITI-01/merlin_215531844_bd800f72-07b9-42a7-b808-7f8792ccb832-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists looking at the tomb of King Tut, as displayed in a glass case at the Valley of the Kings in Luxor, Egypt, in November 2015.",
+          "copyright": "Amr Nabil/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/11/01/science/00SCI-NEFERTITI-01/00SCI-NEFERTITI-01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists looking at the tomb of King Tut, as displayed in a glass case at the Valley of the Kings in Luxor, Egypt, in November 2015.",
+          "copyright": "Amr Nabil/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3sIdV1v"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Pelosi, Vilified by Republicans for Years, Is a Top Target of Threats",
+      "abstract": "The attack on the husband of Speaker Nancy Pelosi, which appeared to target her, came after more than a decade of Republican efforts to demonize and dehumanize the most powerful woman in Washington.",
+      "url": "https://www.nytimes.com/2022/10/30/us/politics/pelosi-attack-republican-threats.html",
+      "uri": "nyt://article/365d6966-48aa-595c-8bd4-fa16e65646a7",
+      "byline": "By Annie Karni, Catie Edmondson and Carl Hulse",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T19:59:25-04:00",
+      "created_date": "2022-10-30T19:31:54-04:00",
+      "published_date": "2022-10-30T19:31:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Midterm Elections (2022)",
+        "Conspiracy Theories",
+        "Assassinations and Attempted Assassinations",
+        "Violence (Media and Entertainment)",
+        "Threats and Threatening Messages",
+        "Right-Wing Extremism and Alt-Right",
+        "QAnon"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Pelosi, Nancy", "Pelosi, Paul", "Depape, David"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30dc-Pelosi-1-94b7/30dc-Pelosi-1-94b7-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1442,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The street at Nancy Pelosi’s San Francisco home, where her husband, Paul, was attacked by an intruder early Friday morning.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30dc-Pelosi-1-94b7/30dc-Pelosi-1-94b7-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The street at Nancy Pelosi’s San Francisco home, where her husband, Paul, was attacked by an intruder early Friday morning.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30dc-Pelosi-1-94b7/30dc-Pelosi-1-94b7-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The street at Nancy Pelosi’s San Francisco home, where her husband, Paul, was attacked by an intruder early Friday morning.",
+          "copyright": "Jim Wilson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fiwAOp"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Elon Musk, in a Tweet, Shares Link From Site Known to Publish False News",
+      "abstract": "The tweet on Sunday, which was later deleted, posted an article that made baseless allegations about the attack on House Speaker Nancy Pelosi’s husband.",
+      "url": "https://www.nytimes.com/2022/10/30/business/musk-tweets-hillary-clinton-pelosi-husband.html",
+      "uri": "nyt://article/cf58780d-167d-5c48-9e68-079f65aa79be",
+      "byline": "By Kurtis Lee",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T19:16:30-04:00",
+      "created_date": "2022-10-30T13:55:33-04:00",
+      "published_date": "2022-10-30T13:55:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Social Media",
+        "Corporate Social Responsibility",
+        "News and News Media"
+      ],
+      "org_facet": ["Twitter"],
+      "per_facet": ["Clinton, Hillary Rodham", "Musk, Elon"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/multimedia/30musk-tweet-print/30musk-tweet-1-1-1ccc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the months since Elon Musk announced he would buy Twitter, questions have been raised about how, or if, he would act to combat misinformation and hate speech on the site.",
+          "copyright": "Beck Diefenbach/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/multimedia/30musk-tweet-print/30musk-tweet-1-1-1ccc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the months since Elon Musk announced he would buy Twitter, questions have been raised about how, or if, he would act to combat misinformation and hate speech on the site.",
+          "copyright": "Beck Diefenbach/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/multimedia/30musk-tweet-print/30musk-tweet-1-1-1ccc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the months since Elon Musk announced he would buy Twitter, questions have been raised about how, or if, he would act to combat misinformation and hate speech on the site.",
+          "copyright": "Beck Diefenbach/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3W8MT0G"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "At Least 70 Killed in India as Suspension Bridge Collapses",
+      "abstract": "The bridge, in the state of Gujarat, was reopened recently after renovation.",
+      "url": "https://www.nytimes.com/2022/10/30/world/asia/india-bridge-collapse.html",
+      "uri": "nyt://article/e8d796bf-ef0c-58f6-a808-b55d8e6236a9",
+      "byline": "By Sameer Yasir",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T19:51:15-04:00",
+      "created_date": "2022-10-30T12:39:18-04:00",
+      "published_date": "2022-10-30T12:39:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Bridges and Tunnels", "Deaths (Fatalities)", "Rescues"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Gujarat State (India)", "India"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30india-bridge-sub-top/30india-bridge-sub-top-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescuers in India worked at night after a suspension bridge in western Gujarat State collapsed on Sunday.",
+          "copyright": "Rajesh Ambaliya/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30india-bridge-sub-top/30india-bridge-sub-top-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescuers in India worked at night after a suspension bridge in western Gujarat State collapsed on Sunday.",
+          "copyright": "Rajesh Ambaliya/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/world/30india-bridge-sub-top/30india-bridge-sub-top-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescuers in India worked at night after a suspension bridge in western Gujarat State collapsed on Sunday.",
+          "copyright": "Rajesh Ambaliya/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3sMbfQx"
+    },
+    {
+      "section": "upshot",
+      "subsection": "",
+      "title": "Legal Abortions Fell Around 6 Percent in Two Months After End of Roe",
+      "abstract": "New data shows that the number of abortions fell by more than 10,000.",
+      "url": "https://www.nytimes.com/2022/10/30/upshot/legal-abortions-fall-roe.html",
+      "uri": "nyt://article/8b7b7649-f0f8-5172-9343-c028c7bc8dce",
+      "byline": "By Margot Sanger-Katz and Claire Cain Miller",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T19:54:17-04:00",
+      "created_date": "2022-10-30T18:53:57-04:00",
+      "published_date": "2022-10-30T18:53:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Abortion",
+        "States (US)",
+        "Women and Girls",
+        "Abortion Drugs",
+        "Roe v Wade (Supreme Court Decision)",
+        "Birth Control and Family Planning",
+        "Women's Rights",
+        "Law and Legislation"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/multimedia/31-UP-ILLINOIS-01-PRINT/30up-illinois1-1-0727-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer with Midwest Access Coalition driving from St. Louis over the state border to Illinois this summer. Abortion is now banned in Missouri, but volunteers help drive women across the Mississippi River to Illinois, where it remains legal.",
+          "copyright": "Angela Weiss/Agence France-Presse \u0026mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/multimedia/31-UP-ILLINOIS-01-PRINT/30up-illinois1-1-0727-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer with Midwest Access Coalition driving from St. Louis over the state border to Illinois this summer. Abortion is now banned in Missouri, but volunteers help drive women across the Mississippi River to Illinois, where it remains legal.",
+          "copyright": "Angela Weiss/Agence France-Presse \u0026mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/multimedia/31-UP-ILLINOIS-01-PRINT/30up-illinois1-1-0727-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer with Midwest Access Coalition driving from St. Louis over the state border to Illinois this summer. Abortion is now banned in Missouri, but volunteers help drive women across the Mississippi River to Illinois, where it remains legal.",
+          "copyright": "Angela Weiss/Agence France-Presse \u0026mdash; Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3U7T839"
+    },
+    {
+      "section": "sports",
+      "subsection": "baseball",
+      "title": "A Cuban Slugger’s Family Is Making Up for Lost Time",
+      "abstract": "It took years for Yordan Alvarez’s parents to get to the United States from Cuba to see him play for the Houston Astros. They are soaking in every second.",
+      "url": "https://www.nytimes.com/2022/10/30/sports/baseball/yordan-alvarez-astros-world-series.html",
+      "uri": "nyt://article/872eea96-9660-561e-bc4d-48892b7fd3d4",
+      "byline": "By James Wagner",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T18:00:45-04:00",
+      "created_date": "2022-10-30T17:33:18-04:00",
+      "published_date": "2022-10-30T17:33:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Baseball", "World Series", "Playoff Games"],
+      "org_facet": ["Houston Astros", "Philadelphia Phillies"],
+      "per_facet": ["Alvarez, Yordan (1997- )"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30mlb-worldseries-alvarez-top-1-7463/30mlb-worldseries-alvarez-top-1-7463-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Houston’s Yordan Alvarez doubled in a run in the first inning of Game 2 of the World Series on Saturday, no one in Minute Maid Park was happier than Alvarez’s father, Agustín.",
+          "copyright": "Annie Mulligan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30mlb-worldseries-alvarez-top-1-7463/30mlb-worldseries-alvarez-top-1-7463-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Houston’s Yordan Alvarez doubled in a run in the first inning of Game 2 of the World Series on Saturday, no one in Minute Maid Park was happier than Alvarez’s father, Agustín.",
+          "copyright": "Annie Mulligan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/multimedia/30mlb-worldseries-alvarez-top-1-7463/30mlb-worldseries-alvarez-top-1-7463-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Houston’s Yordan Alvarez doubled in a run in the first inning of Game 2 of the World Series on Saturday, no one in Minute Maid Park was happier than Alvarez’s father, Agustín.",
+          "copyright": "Annie Mulligan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3feyUWN"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "The Weekender",
+      "abstract": "The return of the American downtown. Also in this edition: a new climate reality, and Joan Didion’s life in objects.",
+      "url": "https://www.nytimes.com/interactive/2022/10/28/briefing/the-weekender.html",
+      "uri": "nyt://interactive/ab0e3418-5b55-5495-a3ed-dd0dec8c4223",
+      "byline": "By Christine Chun",
+      "item_type": "Interactive",
+      "updated_date": "2022-10-28T16:24:19-04:00",
+      "created_date": "2022-10-28T13:30:21-04:00",
+      "published_date": "2022-10-28T13:30:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/multimedia/1028-Weekender-grid/1028-Weekender-grid-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1334,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "na"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/multimedia/1028-Weekender-grid/1028-Weekender-grid-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "na"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/multimedia/1028-Weekender-grid/1028-Weekender-grid-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "na"
+        }
+      ],
+      "short_url": "https://nyti.ms/3DmnRCy"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "The New York Times News Quiz, October 28, 2022",
+      "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+      "url": "https://www.nytimes.com/interactive/2022/10/28/briefing/28news-quiz-world-series.html",
+      "uri": "nyt://interactive/f841be9c-c8b2-5ccd-940e-b27969cb6229",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2022-10-28T10:07:44-04:00",
+      "created_date": "2022-10-28T05:01:01-04:00",
+      "published_date": "2022-10-28T05:01:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/multimedia/27newquiz-prime-minister-1-db97/27newquiz-prime-minister-1-db97-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Hannah Mckay/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/multimedia/27newquiz-prime-minister-1-db97/27newquiz-prime-minister-1-db97-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Hannah Mckay/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/multimedia/27newquiz-prime-minister-1-db97/27newquiz-prime-minister-1-db97-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Hannah Mckay/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SKqJPi"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "The ‘Slow Burn’ That Is Henry Taylor",
+      "abstract": "The artist’s survey at MOCA, with its empathetic portraits and quirky sculptures, speaks to the larger struggle of Black artists to achieve a level of recognition that is long overdue.",
+      "url": "https://www.nytimes.com/2022/10/26/arts/design/henry-taylor-moca-los-angeles.html",
+      "uri": "nyt://article/ccd9fe21-521d-5480-b7aa-9121c5eef4e9",
+      "byline": "By Robin Pogrebin",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T15:22:16-04:00",
+      "created_date": "2022-10-26T05:00:40-04:00",
+      "published_date": "2022-10-26T05:00:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Sculpture",
+        "Content Type: Personal Profile",
+        "Black People",
+        "Museums"
+      ],
+      "org_facet": ["Los Angeles Museum of Contemporary Art"],
+      "per_facet": ["Taylor, Henry (1958- )"],
+      "geo_facet": ["Los Angeles (Calif)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/arts/30HENRY-TAYLOR1/merlin_215113020_2dc9ea4d-ac89-4749-83f1-f5dec275839f-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1671,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Henry Taylor at his studio on Jefferson Boulevard in Los Angeles, dedicated to his sculptural practice. Objects found in flea markets, vintage stores or salvaged over 20 years form assemblages that mimic the way his paintings come together, sourced from images and moments in time.",
+          "copyright": "Ricardo Nagaoka for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/arts/30HENRY-TAYLOR1/30HENRY-TAYLOR1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Henry Taylor at his studio on Jefferson Boulevard in Los Angeles, dedicated to his sculptural practice. Objects found in flea markets, vintage stores or salvaged over 20 years form assemblages that mimic the way his paintings come together, sourced from images and moments in time.",
+          "copyright": "Ricardo Nagaoka for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/arts/30HENRY-TAYLOR1/30HENRY-TAYLOR1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Henry Taylor at his studio on Jefferson Boulevard in Los Angeles, dedicated to his sculptural practice. Objects found in flea markets, vintage stores or salvaged over 20 years form assemblages that mimic the way his paintings come together, sourced from images and moments in time.",
+          "copyright": "Ricardo Nagaoka for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TBDehG"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Do the Democrats Deserve Re-election?",
+      "abstract": "Looking at the midterms as a referendum.",
+      "url": "https://www.nytimes.com/2022/10/30/opinion/lets-pretend-for-a-minute-that-theres-just-biden-to-worry-about.html",
+      "uri": "nyt://article/728fc086-899e-5fcf-96cb-1721088ff14c",
+      "byline": "By Ezra Klein",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T17:14:57-04:00",
+      "created_date": "2022-10-30T05:00:07-04:00",
+      "published_date": "2022-10-30T05:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Ezra Klein",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "Law and Legislation",
+        "American Jobs Plan (2021)",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30klein-1/30klein-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1537,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Let’s pretend for a minute that there’s just President Biden to worry about.",
+          "copyright": "Devin Oktar Yalkin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30klein-1/30klein-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Let’s pretend for a minute that there’s just President Biden to worry about.",
+          "copyright": "Devin Oktar Yalkin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30klein-1/30klein-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Let’s pretend for a minute that there’s just President Biden to worry about.",
+          "copyright": "Devin Oktar Yalkin for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fgtJ8K"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "My Teenage Years With the Black Panthers",
+      "abstract": "A photographer is reunited with images he made as a young man in the turbulent 1960s.",
+      "url": "https://www.nytimes.com/2022/10/29/opinion/black-panthers-photographs.html",
+      "uri": "nyt://article/33e75cc7-34f3-5f28-8bee-21d5ce6f069e",
+      "byline": "By Jeffrey Henson Scales",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T14:45:47-04:00",
+      "created_date": "2022-10-29T11:00:16-04:00",
+      "published_date": "2022-10-29T11:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Photography",
+        "Black People",
+        "Nineteen Hundred Sixties",
+        "Police Brutality, Misconduct and Shootings",
+        "Demonstrations, Protests and Riots"
+      ],
+      "org_facet": ["Black Panther Party"],
+      "per_facet": [],
+      "geo_facet": ["California"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30Exposures-HensonScales-slide-RHFX/30Exposures-HensonScales-slide-RHFX-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1342,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, the Panther members Van Taylor, John Boweman and Richard Brown outside the Alameda County Courthouse, 1968.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30Exposures-HensonScales-slide-RHFX/30Exposures-HensonScales-slide-RHFX-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, the Panther members Van Taylor, John Boweman and Richard Brown outside the Alameda County Courthouse, 1968.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30Exposures-HensonScales-slide-RHFX/30Exposures-HensonScales-slide-RHFX-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, the Panther members Van Taylor, John Boweman and Richard Brown outside the Alameda County Courthouse, 1968.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3NiRwBi"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Self-Destruction of Ye",
+      "abstract": "Corporations have finally, rightfully, said “enough” to Kanye West. But what took them so long?",
+      "url": "https://www.nytimes.com/2022/10/30/opinion/the-self-destruction-of-ye.html",
+      "uri": "nyt://article/d889de07-e9e5-5f4a-aee2-df929a043a0c",
+      "byline": "By Charles M. Blow",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T17:48:30-04:00",
+      "created_date": "2022-10-30T15:00:06-04:00",
+      "published_date": "2022-10-30T15:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Charles M. Blow",
+      "des_facet": [
+        "Black People",
+        "Anti-Semitism",
+        "Corporations",
+        "Rap and Hip-Hop",
+        "Discrimination"
+      ],
+      "org_facet": [],
+      "per_facet": ["West, Kanye"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30blowNew/merlin_200216013_6780f663-4c60-4fb9-9f5c-169f55364849-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1276,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Karen Minasyan/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30blowNew/30blowNew-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Karen Minasyan/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/opinion/30blowNew/30blowNew-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Karen Minasyan/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SJAHRe"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Season of Dark Academia",
+      "abstract": "The literary genre of “dark academia” may now be less dark than actual academia.",
+      "url": "https://www.nytimes.com/2022/10/30/opinion/dark-academia-halloween.html",
+      "uri": "nyt://article/a4c1b76a-4712-5613-8653-b1486fe8207b",
+      "byline": "By Pamela Paul",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T18:43:41-04:00",
+      "created_date": "2022-10-30T06:00:07-04:00",
+      "published_date": "2022-10-30T06:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Pamela Paul",
+      "des_facet": [
+        "Books and Literature",
+        "Colleges and Universities",
+        "Book Trade and Publishing",
+        "Generation Z",
+        "The Secret History (Book)",
+        "Graduate Schools and Students"
+      ],
+      "org_facet": [],
+      "per_facet": ["Tartt, Donna"],
+      "geo_facet": ["United States"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/opinion/30paul1/30paul1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paulo Nunes dos Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/opinion/30paul1/30paul1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paulo Nunes dos Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/31/opinion/30paul1/30paul1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paulo Nunes dos Santos for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3DJZMaf"
+    },
+    {
+      "section": "podcasts",
+      "subsection": "the-daily",
+      "title": "The Sunday Read: ‘Why We Take Animal Voyages’",
+      "abstract": "What I’ve learned from a lifetime of voyaging with animals.",
+      "url": "https://www.nytimes.com/2022/10/30/podcasts/the-daily/animal-voyages.html",
+      "uri": "nyt://article/21f1e399-2dbc-5db4-8e76-4a21f34c6851",
+      "byline": "By Sam Anderson, Adrienne Hurst, Aaron Esposito, John Woo and Sophia Lanman",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T06:00:07-04:00",
+      "created_date": "2022-10-30T06:00:07-04:00",
+      "published_date": "2022-10-30T06:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Animals", "audio-neutral-informative"],
+      "org_facet": ["Creature"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/25/magazine/30daily-audm-1/25mag-voyages-leopards-03-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1638,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yuki, whose name means “snow” in Japanese, at the Philadelphia Zoo.",
+          "copyright": "Matthew Pillsbury for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/25/magazine/30daily-audm-1/25mag-voyages-leopards-03-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yuki, whose name means “snow” in Japanese, at the Philadelphia Zoo.",
+          "copyright": "Matthew Pillsbury for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/25/magazine/30daily-audm-1/25mag-voyages-leopards-03-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yuki, whose name means “snow” in Japanese, at the Philadelphia Zoo.",
+          "copyright": "Matthew Pillsbury for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gYFgKp"
+    },
+    {
+      "section": "podcasts",
+      "subsection": "",
+      "title": "Not the Daughter She Wanted",
+      "abstract": "When it comes to whom she loves, an immigrant daughter can’t make her mother happy. But she holds on to hope, as her mother always taught her to do.",
+      "url": "https://www.nytimes.com/2022/10/26/podcasts/modern-love-not-the-daughter-she-wanted.html",
+      "uri": "nyt://article/87a0f627-782c-5140-aa4c-fd0173be9e3c",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2022-10-26T16:07:06-04:00",
+      "created_date": "2022-10-26T16:00:05-04:00",
+      "published_date": "2022-10-26T16:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Love (Emotion)", "Dating and Relationships"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/fashion/26MODERNLOVE-image/17MODERNLOVE-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1553,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/fashion/26MODERNLOVE-image/17MODERNLOVE-mediumThreeByTwo440-v2.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/fashion/26MODERNLOVE-image/17MODERNLOVE-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TXLPL7"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "When You’re Sick at Home",
+      "abstract": "Your guide to eating well, even when you’re feeling low.",
+      "url": "https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html",
+      "uri": "nyt://article/630b287a-896a-53d2-8104-8c623aff5cfe",
+      "byline": "By Nikita Richardson",
+      "item_type": "Article",
+      "updated_date": "2022-10-26T00:27:48-04:00",
+      "created_date": "2022-10-25T16:00:04-04:00",
+      "published_date": "2022-10-25T16:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Restaurants", "internal-sub-only-nl"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/25/dining/25wte-sickdays-NL1/merlin_99139654_5714558b-8ab9-4613-80c5-e01372fc9bbd-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The smoked brisket pho from Lucy’s Vietnamese in Brooklyn makes for a perfect recovery meal.",
+          "copyright": "Ben Russell for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/25/dining/25wte-sickdays-NL1/merlin_99139654_5714558b-8ab9-4613-80c5-e01372fc9bbd-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The smoked brisket pho from Lucy’s Vietnamese in Brooklyn makes for a perfect recovery meal.",
+          "copyright": "Ben Russell for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/25/dining/25wte-sickdays-NL1/merlin_99139654_5714558b-8ab9-4613-80c5-e01372fc9bbd-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The smoked brisket pho from Lucy’s Vietnamese in Brooklyn makes for a perfect recovery meal.",
+          "copyright": "Ben Russell for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3FksAaC"
+    },
+    {
+      "section": "sports",
+      "subsection": "soccer",
+      "title": "World Cup Dreams, Gone in an Instant",
+      "abstract": "For hundreds of the world’s best players, injury is the fear shadowing every step, every turn, every tackle as the World Cup looms.",
+      "url": "https://www.nytimes.com/2022/10/28/sports/soccer/world-cup-injuries.html",
+      "uri": "nyt://article/f306694e-ce79-589c-b49e-41f7abc8f98d",
+      "byline": "By Rory Smith",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T00:20:34-04:00",
+      "created_date": "2022-10-28T11:15:04-04:00",
+      "published_date": "2022-10-28T11:15:04-04:00",
+      "material_type_facet": "",
+      "kicker": "The On Soccer Newsletter",
+      "des_facet": ["Soccer", "World Cup 2022 (Soccer)"],
+      "org_facet": [
+        "Manchester United (Soccer Team)",
+        "Bayern Munich (Soccer Team)"
+      ],
+      "per_facet": ["Kante, N'Golo (1991- )"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/multimedia/28rory-varane-1-5bd3/28rory-varane-1-5bd3-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1415,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manchester United defender Raphaël Varane is one of a handful of France players who will, or could, miss the World Cup through an untimely injury.",
+          "copyright": "Daniel Hambury/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/multimedia/28rory-varane-1-5bd3/28rory-varane-1-5bd3-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manchester United defender Raphaël Varane is one of a handful of France players who will, or could, miss the World Cup through an untimely injury.",
+          "copyright": "Daniel Hambury/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/multimedia/28rory-varane-1-5bd3/28rory-varane-1-5bd3-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manchester United defender Raphaël Varane is one of a handful of France players who will, or could, miss the World Cup through an untimely injury.",
+          "copyright": "Daniel Hambury/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gSRmnY"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Can Elon Musk Make the Math Work on Owning Twitter? It’s Dicey.",
+      "abstract": "Mr. Musk faces financial challenges in owning Twitter. The site frequently loses money and took on $13 billion in debt for the blockbuster deal.",
+      "url": "https://www.nytimes.com/2022/10/30/technology/elon-musk-twitter-debt.html",
+      "uri": "nyt://article/7d140690-aa9f-5639-b3f7-87a0a0710053",
+      "byline": "By Lauren Hirsch",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T19:03:00-04:00",
+      "created_date": "2022-10-30T18:38:55-04:00",
+      "published_date": "2022-10-30T18:38:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Social Media",
+        "Computers and the Internet",
+        "Layoffs and Job Reductions",
+        "Mergers, Acquisitions and Divestitures",
+        "Labor and Jobs",
+        "Corporations",
+        "Advertising and Marketing"
+      ],
+      "org_facet": [
+        "Twitter",
+        "Tesla Motors Inc",
+        "Space Exploration Technologies Corp"
+      ],
+      "per_facet": ["Musk, Elon"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/business/30twitter-math/merlin_215638272_61c2aa9a-fc8c-45b6-add6-6e57b3cc8c5e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Twitter’s headquarters in San Francisco. Elon Musk’s ability to make the numbers work will have a direct impact on the social media company’s health.",
+          "copyright": "Constanza Hevia/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/business/30twitter-math/merlin_215638272_61c2aa9a-fc8c-45b6-add6-6e57b3cc8c5e-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Twitter’s headquarters in San Francisco. Elon Musk’s ability to make the numbers work will have a direct impact on the social media company’s health.",
+          "copyright": "Constanza Hevia/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/business/30twitter-math/30twitter-math-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Twitter’s headquarters in San Francisco. Elon Musk’s ability to make the numbers work will have a direct impact on the social media company’s health.",
+          "copyright": "Constanza Hevia/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gVYiB0"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "New York to Pay $26 Million to Men Wrongly Convicted of Killing Malcolm X",
+      "abstract": "Muhammad A. Aziz and Khalil Islam spent more than 20 years in prison after the civil rights leader was assassinated in 1965. He had broken with the Nation of Islam.",
+      "url": "https://www.nytimes.com/2022/10/30/nyregion/malcom-x-muhammad-aziz-khalil-islam-settlement.html",
+      "uri": "nyt://article/5fc87297-966b-53d6-b7e9-664146d2e2ae",
+      "byline": "By Benjamin Weiser",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T14:10:35-04:00",
+      "created_date": "2022-10-30T13:06:02-04:00",
+      "published_date": "2022-10-30T13:06:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "False Arrests, Convictions and Imprisonments",
+        "Civil Rights Movement (1954-68)",
+        "Assassinations and Attempted Assassinations"
+      ],
+      "org_facet": ["Nation of Islam", "Audubon Ballroom (NYC)"],
+      "per_facet": [],
+      "geo_facet": ["Washington Heights (Manhattan, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/nyregion/30Malcolm-X-settlement1/30Malcolm-X-settlement1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Muhammad Aziz walks out of a Manhattan court after his conviction was vacated in New York last November.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/nyregion/30Malcolm-X-settlement1/30Malcolm-X-settlement1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Muhammad Aziz walks out of a Manhattan court after his conviction was vacated in New York last November.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/30/nyregion/30Malcolm-X-settlement1/30Malcolm-X-settlement1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Muhammad Aziz walks out of a Manhattan court after his conviction was vacated in New York last November.",
+          "copyright": "Todd Heisler/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3U5Vwbb"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Community Mourns the Rev. Calvin Butts III, an Institution in Harlem",
+      "abstract": "Congregants and neighbors remembered a pastor who they said was determined to fight racism and lift up the Black community.",
+      "url": "https://www.nytimes.com/2022/10/30/nyregion/rev-calvin-butts-iii-harlem-funeral.html",
+      "uri": "nyt://article/09d0df80-aa3f-5b06-9c67-5c42e837bc7b",
+      "byline": "By Corey Kilgannon and Lauren McCarthy",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T14:32:00-04:00",
+      "created_date": "2022-10-30T14:27:47-04:00",
+      "published_date": "2022-10-30T14:27:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black People",
+        "Baptist Churches",
+        "Ministers (Protestant)",
+        "Civil Rights Movement (1954-68)"
+      ],
+      "org_facet": [
+        "Abyssinian Baptist Church",
+        "Abyssinian Development Corp",
+        "Union Theological Seminary"
+      ],
+      "per_facet": [
+        "Butts, Calvin O III",
+        "Adams, Eric L",
+        "Bloomberg, Michael R",
+        "King, Martin Luther Jr",
+        "Paterson, David A",
+        "Wright, Keith L T"
+      ],
+      "geo_facet": ["Harlem (Manhattan, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/11/29/us/29NY-HARLEM-BUTTS-1/29NY-HARLEM-BUTTS-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rev. Calvin O. Butts III’s chair was left empty during a Sunday service dedicated to his memory at Abyssinian Baptist Church. His Bible was placed on the seat and his robe draped over the chair.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/11/29/us/29NY-HARLEM-BUTTS-1/29NY-HARLEM-BUTTS-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rev. Calvin O. Butts III’s chair was left empty during a Sunday service dedicated to his memory at Abyssinian Baptist Church. His Bible was placed on the seat and his robe draped over the chair.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/11/29/us/29NY-HARLEM-BUTTS-1/29NY-HARLEM-BUTTS-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rev. Calvin O. Butts III’s chair was left empty during a Sunday service dedicated to his memory at Abyssinian Baptist Church. His Bible was placed on the seat and his robe draped over the chair.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Wkk5lV"
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Another Israeli Election Looms, and a Familiar Face Plans a Comeback",
+      "abstract": "Ousted from the prime minister’s office 16 months ago, Benjamin Netanyahu, the leading candidate, is out to prove his political obituaries were premature.",
+      "url": "https://www.nytimes.com/2022/10/29/world/middleeast/israeli-election.html",
+      "uri": "nyt://article/2cd3e79a-29b4-558b-9f1c-78e4e5505420",
+      "byline": "By Isabel Kershner",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T00:04:32-04:00",
+      "created_date": "2022-10-29T08:50:04-04:00",
+      "published_date": "2022-10-29T08:50:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Elections",
+        "Polls and Public Opinion",
+        "Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": ["Netanyahu, Benjamin"],
+      "geo_facet": ["Israel"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/world/27israel-netanyahu-sub/merlin_215546337_2a287fe4-24d9-4b41-805a-d9e747c3c5d7-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benjamin Netanyahu in his bulletproof vehicle this month during a campaign stop in Netivot, Israel.",
+          "copyright": "Amit Elkayam for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/world/27israel-netanyahu-sub/merlin_215546337_2a287fe4-24d9-4b41-805a-d9e747c3c5d7-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benjamin Netanyahu in his bulletproof vehicle this month during a campaign stop in Netivot, Israel.",
+          "copyright": "Amit Elkayam for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/world/27israel-netanyahu-sub/27israel-netanyahu-sub-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benjamin Netanyahu in his bulletproof vehicle this month during a campaign stop in Netivot, Israel.",
+          "copyright": "Amit Elkayam for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fjc3cy"
+    },
+    {
+      "section": "well",
+      "subsection": "",
+      "title": "R.S.V. Cases Are Rising. Here’s What You Need to Know",
+      "abstract": "Before the Covid pandemic, most people caught respiratory syncytial virus before the age of 2. Now things have changed.",
+      "url": "https://www.nytimes.com/article/rsv-symptoms-treatment.html",
+      "uri": "nyt://article/9b14b9a1-4ff5-5c1c-a7b7-243c7d92d3f1",
+      "byline": "By Knvul Sheikh",
+      "item_type": "Article",
+      "updated_date": "2022-10-30T08:13:20-04:00",
+      "created_date": "2022-10-29T05:00:19-04:00",
+      "published_date": "2022-10-29T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Service",
+        "Respiratory Syncytial Virus (RSV)",
+        "Children and Childhood",
+        "Babies and Infants",
+        "Hospitals",
+        "Immune System",
+        "Viruses",
+        "Disease Rates",
+        "Coughs"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/well/28WELL-RSV-EXPLAINER1/28WELL-RSV-EXPLAINER1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/well/28WELL-RSV-EXPLAINER1/28WELL-RSV-EXPLAINER1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/well/28WELL-RSV-EXPLAINER1/28WELL-RSV-EXPLAINER1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zoUPRW"
+    },
+    {
+      "section": "parenting",
+      "subsection": "",
+      "title": "How to Stay Sane About Halloween Candy",
+      "abstract": "No, your children won’t overload on peanut butter cups. Yes, you can eat their mini Snickers.",
+      "url": "https://www.nytimes.com/2020/04/17/parenting/halloween-candy-rules.html",
+      "uri": "nyt://article/968f855f-aeef-57a6-a6df-06de48aa6c27",
+      "byline": "By Virginia Sole-Smith",
+      "item_type": "Article",
+      "updated_date": "2021-10-27T08:58:39-04:00",
+      "created_date": "2020-04-17T14:38:20-04:00",
+      "published_date": "2020-04-17T14:38:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Halloween",
+        "Families and Family Life",
+        "Children and Childhood",
+        "Candy",
+        "Costumes",
+        "Sugar",
+        "Psychology and Psychologists",
+        "Food",
+        "Teeth and Dentistry",
+        "Parenting",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/10/23/multimedia/parenting-candy/parenting-candy-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/10/23/multimedia/parenting-candy/parenting-candy-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/10/23/multimedia/parenting-candy/parenting-candy-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VDG5cV"
+    },
+    {
+      "section": "well",
+      "subsection": "live",
+      "title": "Covid-19 Symptoms Can Rebound Even if You Don’t Take Paxlovid",
+      "abstract": "A new study found that more than a third of those who recovered from an infection had symptoms recur days or weeks later.",
+      "url": "https://www.nytimes.com/2022/10/27/well/live/covid-symptoms-rebound-paxlovid.html",
+      "uri": "nyt://article/93d68d81-8118-5597-a73e-1b92b6c2c368",
+      "byline": "By Knvul Sheikh",
+      "item_type": "Article",
+      "updated_date": "2022-10-27T13:17:48-04:00",
+      "created_date": "2022-10-27T13:17:48-04:00",
+      "published_date": "2022-10-27T13:17:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Research",
+        "Paxlovid (Drug)",
+        "Immune System",
+        "Drugs (Pharmaceuticals)",
+        "Disease Rates",
+        "Coughs"
+      ],
+      "org_facet": [
+        "Journal of the American Medical Assn",
+        "JAMA Network Open"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/well/27WELL-RECURRENT-SYMPTOMS1/27WELL-RECURRENT-SYMPTOMS1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rebound symptoms are common, said one doctor. “It doesn’t mean that things are going south,” he said. “It’s just the natural way the disease goes.”",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/well/27WELL-RECURRENT-SYMPTOMS1/27WELL-RECURRENT-SYMPTOMS1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rebound symptoms are common, said one doctor. “It doesn’t mean that things are going south,” he said. “It’s just the natural way the disease goes.”",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/well/27WELL-RECURRENT-SYMPTOMS1/27WELL-RECURRENT-SYMPTOMS1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rebound symptoms are common, said one doctor. “It doesn’t mean that things are going south,” he said. “It’s just the natural way the disease goes.”",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3U4dJVS"
+    },
+    {
+      "section": "well",
+      "subsection": "",
+      "title": "How Horror Stories Help Us Cope With Real Life",
+      "abstract": "Scary movies, books and podcasts can help people think through how they would respond to threats and prepare them for worst-case scenarios, say experts who study the psychology of fear.",
+      "url": "https://www.nytimes.com/2022/10/27/well/how-horror-stories-help-us-cope-with-real-life.html",
+      "uri": "nyt://article/9f9c68b4-7498-5454-8c55-0045a90fadb7",
+      "byline": "By Melinda Wenner Moyer",
+      "item_type": "Article",
+      "updated_date": "2022-10-27T20:00:04-04:00",
+      "created_date": "2022-10-27T20:00:04-04:00",
+      "published_date": "2022-10-27T20:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "The Well Newsletter",
+      "des_facet": [
+        "Movies",
+        "Murders, Attempted Murders and Homicides",
+        "Fear (Emotion)",
+        "Halloween"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/well/27-Well-NL/27-Well-NL-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1166,
+          "width": 1750,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Javier Jaén"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/well/27-Well-NL/27-Well-NL-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Javier Jaén"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/27/well/27-Well-NL/27-Well-NL-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Javier Jaén"
+        }
+      ],
+      "short_url": "https://nyti.ms/3NaYmJf"
+    },
+    {
+      "section": "parenting",
+      "subsection": "",
+      "title": "Please Let Me Terrify Some Kids on Halloween",
+      "abstract": "A socially distanced dad hopes that frightening children isn’t a thing of the past.",
+      "url": "https://www.nytimes.com/2020/10/01/parenting/halloween-kids.html",
+      "uri": "nyt://article/7275c658-6cf7-5d54-80fa-baa3fe956e35",
+      "byline": "By Erik Vance",
+      "item_type": "Article",
+      "updated_date": "2021-10-27T09:02:45-04:00",
+      "created_date": "2020-10-01T14:48:30-04:00",
+      "published_date": "2020-10-01T14:48:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Halloween", "Parenting", "Costumes"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/multimedia/1parenting-scare/1parenting-scare-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1166,
+          "width": 1750,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Byron Eggenschwiler"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/multimedia/1parenting-scare/1parenting-scare-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Byron Eggenschwiler"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/multimedia/1parenting-scare/1parenting-scare-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Byron Eggenschwiler"
+        }
+      ],
+      "short_url": "https://nyti.ms/34fTtZ5"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "‘All Quiet on the Western Front’ Review: The Spectacle of War",
+      "abstract": "Edward Berger’s German-language adaptation of Erich Maria Remarque’s novel aims to rattle you with its relentless brutality.",
+      "url": "https://www.nytimes.com/2022/10/27/movies/all-quiet-on-the-western-front-review.html",
+      "uri": "nyt://article/febdb74d-f4e3-5a7d-8f85-57094bf0a01f",
+      "byline": "By Ben Kenigsberg",
+      "item_type": "Article",
+      "updated_date": "2022-10-27T17:37:55-04:00",
+      "created_date": "2022-10-27T11:29:39-04:00",
+      "published_date": "2022-10-27T11:29:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Movies", "All Quiet on the Western Front (2022) (Movie)"],
+      "org_facet": [],
+      "per_facet": ["Berger, Edward (1970- )"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/arts/quiet1/quiet1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1483,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Felix Kammerer, center, in “All Quiet on the Western Front.”",
+          "copyright": "Reiner Bajo/Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/arts/quiet1/quiet1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Felix Kammerer, center, in “All Quiet on the Western Front.”",
+          "copyright": "Reiner Bajo/Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/28/arts/quiet1/quiet1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Felix Kammerer, center, in “All Quiet on the Western Front.”",
+          "copyright": "Reiner Bajo/Netflix"
+        }
+      ],
+      "short_url": "https://nyti.ms/3szb4rs"
+    },
+    {
+      "section": "crosswords",
+      "subsection": "",
+      "title": "Mini to Maestro, Part 3: Advanced Puzzles",
+      "abstract": "Friday, Saturday and Sunday bring some of the hardest puzzles of the week.",
+      "url": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-3.html",
+      "uri": "nyt://article/496fdff9-a313-5df4-976e-ee71d8517363",
+      "byline": "By Jackie Frere and Isaac Aronow",
+      "item_type": "Article",
+      "updated_date": "2022-10-07T15:26:55-04:00",
+      "created_date": "2022-09-19T09:00:05-04:00",
+      "published_date": "2022-09-19T09:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Crossword Puzzles"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/15/crosswords/15gameplay-m2m/15gameplay-m2m-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thomas Merceron"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/15/crosswords/15gameplay-m2m/15gameplay-m2m-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thomas Merceron"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/15/crosswords/15gameplay-m2m/15gameplay-m2m-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thomas Merceron"
+        }
+      ],
+      "short_url": "https://nyti.ms/3qOEUrh"
+    }
+  ]
+}

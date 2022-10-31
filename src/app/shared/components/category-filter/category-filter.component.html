@@ -1,0 +1,8 @@
+<div class="category-filter-wrapper">
+    <div class="title">Filter by Category:</div>
+    <mat-select  (selectionChange)="onCategoryChange($event)" [(value)]="selected">
+      <mat-option *ngFor="let category of categories" [value]="category.value">
+        {{category.text}}
+      </mat-option>
+    </mat-select>
+</div>
